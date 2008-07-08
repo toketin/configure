@@ -1,0 +1,1794 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openbox_menu>
+	<menu id="root-menu" label="Sonda Menu">
+		<menu id="18" label="Giochi">
+			<menu id="17" label="Amusement">
+				<item label="Xeyes">
+					<action name="Execute">
+						<execute>
+							xeyes
+						</execute>
+					</action>
+				</item>
+				<item label="Xlogo">
+					<action name="Execute">
+						<execute>
+							xlogo
+						</execute>
+					</action>
+				</item>
+			</menu>
+			<menu id="10" label="Arcade">
+				<item label="PacMan">
+					<action name="Execute">
+						<execute>
+							pacman
+						</execute>
+					</action>
+				</item>
+				<item label="Robots">
+					<action name="Execute">
+						<execute>
+							gnobots2
+						</execute>
+					</action>
+				</item>
+				<item label="SuperTux 2">
+					<action name="Execute">
+						<execute>
+							supertux2
+						</execute>
+					</action>
+				</item>
+				<item label="TeeWorlds">
+					<action name="Execute">
+						<execute>
+							teeworlds
+						</execute>
+					</action>
+				</item>
+				<item label="XQF Game Server Browser">
+					<action name="Execute">
+						<execute>
+							xqf
+						</execute>
+					</action>
+				</item>
+			</menu>
+			<menu id="11" label="Board">
+				<item label="Chess">
+					<action name="Execute">
+						<execute>
+							glchess
+						</execute>
+					</action>
+				</item>
+				<item label="Iagno">
+					<action name="Execute">
+						<execute>
+							iagno
+						</execute>
+					</action>
+				</item>
+				<item label="Mahjongg">
+					<action name="Execute">
+						<execute>
+							mahjongg
+						</execute>
+					</action>
+				</item>
+				<item label="Monopoly">
+					<action name="Execute">
+						<execute>
+							xterm -e monop
+						</execute>
+					</action>
+				</item>
+			</menu>
+			<menu id="12" label="Card">
+				<item label="AisleRiot Solitaire">
+					<action name="Execute">
+						<execute>
+							sol
+						</execute>
+					</action>
+				</item>
+				<item label="Blackjack">
+					<action name="Execute">
+						<execute>
+							blackjack
+						</execute>
+					</action>
+				</item>
+				<item label="FreeCell Solitaire">
+					<action name="Execute">
+						<execute>
+							sol --freecell
+						</execute>
+					</action>
+				</item>
+				<item label="Gnome FreeCell">
+					<action name="Execute">
+						<execute>
+							sol --variation freecell
+						</execute>
+					</action>
+				</item>
+				<item label="Tali">
+					<action name="Execute">
+						<execute>
+							gtali
+						</execute>
+					</action>
+				</item>
+			</menu>
+			<menu id="13" label="Puzzle">
+				<item label="Five or More">
+					<action name="Execute">
+						<execute>
+							glines
+						</execute>
+					</action>
+				</item>
+				<item label="Four-in-a-Row">
+					<action name="Execute">
+						<execute>
+							gnect
+						</execute>
+					</action>
+				</item>
+				<item label="Gnometris">
+					<action name="Execute">
+						<execute>
+							gnometris
+						</execute>
+					</action>
+				</item>
+				<item label="Klotski">
+					<action name="Execute">
+						<execute>
+							gnotski
+						</execute>
+					</action>
+				</item>
+				<item label="Mines">
+					<action name="Execute">
+						<execute>
+							gnomine
+						</execute>
+					</action>
+				</item>
+				<item label="Nibbles">
+					<action name="Execute">
+						<execute>
+							gnibbles
+						</execute>
+					</action>
+				</item>
+				<item label="Same GNOME">
+					<action name="Execute">
+						<execute>
+							same-gnome
+						</execute>
+					</action>
+				</item>
+				<item label="Sudoku">
+					<action name="Execute">
+						<execute>
+							gnome-sudoku
+						</execute>
+					</action>
+				</item>
+				<item label="Tetravex">
+					<action name="Execute">
+						<execute>
+							gnotravex
+						</execute>
+					</action>
+				</item>
+			</menu>
+			<item label="Frozen Bubble">
+				<action name="Execute">
+					<execute>
+						frozen-bubble
+					</execute>
+				</action>
+			</item>
+			<item label="ManiaDrive">
+				<action name="Execute">
+					<execute>
+						mania_drive
+					</execute>
+				</action>
+			</item>
+			<item label="Qmamecat">
+				<action name="Execute">
+					<execute>
+						qmc2
+					</execute>
+				</action>
+			</item>
+			<item label="Pillows">
+				<action name="Execute">
+					<execute>
+						pillows
+					</execute>
+				</action>
+			</item>
+			<item label="Urban Terror">
+				<action name="Execute">
+					<execute>
+						urbanterror
+					</execute>
+				</action>
+			</item>
+			<item label="Warsow">
+				<action name="Execute">
+					<execute>
+						warsow
+					</execute>
+				</action>
+			</item>
+			<item label="World Of Padman">
+				<action name="Execute">
+					<execute>
+						WoP
+					</execute>
+				</action>
+			</item>
+			<item label="Wolfenstein: Enemy Territory">
+				<action name="Execute">
+					<execute>
+						enemy-territory
+					</execute>
+				</action>
+			</item>
+		</menu>
+		<menu id="6" label="Grafica">
+			<item label="GQview">
+				<action name="Execute">
+					<execute>
+						gqview
+					</execute>
+				</action>
+			</item>
+			<item label="Image Viewer">
+				<action name="Execute">
+					<execute>
+						eog
+					</execute>
+				</action>
+			</item>
+			<item label="The GIMP">
+				<action name="Execute">
+					<execute>
+						gimp
+					</execute>
+				</action>
+			</item>
+		</menu>
+		<menu id="7" label="Multimedia">
+			<item label="Amarok">
+				<action name="Execute">
+					<execute>
+						amarok
+					</execute>
+				</action>
+			</item>
+			<item label="Audacity">
+				<action name="Execute">
+					<execute>
+						audacity
+					</execute>
+				</action>
+			</item>
+			<item label="Audio CD Extractor">
+				<action name="Execute">
+					<execute>
+						sound-juicer
+					</execute>
+				</action>
+			</item>
+			<item label="Audio Tag Tool">
+				<action name="Execute">
+					<execute>
+						tagtool
+					</execute>
+				</action>
+			</item>
+			<item label="Avidemux">
+				<action name="Execute">
+					<execute>
+						avidemux2_gtk
+					</execute>
+				</action>
+			</item>
+			<item label="Aviplay">
+				<action name="Execute">
+					<execute>
+						aviplay
+					</execute>
+				</action>
+			</item>
+			<item label="Brasero Disc Burning Application">
+				<action name="Execute">
+					<execute>
+						brasero
+					</execute>
+				</action>
+			</item>
+			<item label="DeVeDe">
+				<action name="Execute">
+					<execute>
+						devede
+					</execute>
+				</action>
+			</item>
+			<item label="Elisa Media Center">
+				<action name="Execute">
+					<execute>
+						elisa
+					</execute>
+				</action>
+			</item>
+			<item label="Exaile Music Player">
+				<action name="Execute">
+					<execute>
+						exaile
+					</execute>
+				</action>
+			</item>
+			<item label="Gmplayer">
+				<action name="Execute">
+					<execute>
+						gmplayer
+					</execute>
+				</action>
+			</item>
+			<item label="Gnome Music Player Client">
+				<action name="Execute">
+					<execute>
+						gmpc
+					</execute>
+				</action>
+			</item>
+			<item label="gnormalize">
+				<action name="Execute">
+					<execute>
+						gnormalize
+					</execute>
+				</action>
+			</item>
+			<item label="K3b">
+				<action name="Execute">
+					<execute>
+						k3b
+					</execute>
+				</action>
+			</item>
+			<item label="Movie Player">
+				<action name="Execute">
+					<execute>
+						totem
+					</execute>
+				</action>
+			</item>
+			<item label="PyTube Multimedia Converter">
+				<action name="Execute">
+					<execute>
+						pytube
+					</execute>
+				</action>
+			</item>
+			<item label="Xvidcap">
+				<action name="Execute">
+					<execute>
+						xvidcap
+					</execute>
+				</action>
+			</item>
+			<item label="RealPlayer">
+				<action name="Execute">
+					<execute>
+						realplay
+					</execute>
+				</action>
+			</item>
+			<item label="VLC media player">
+				<action name="Execute">
+					<execute>
+						vlc
+					</execute>
+				</action>
+			</item>
+		</menu>
+		<menu id="5" label="Network">
+			<item label="aMSN">
+				<action name="Execute">
+					<execute>
+						amsn
+					</execute>
+				</action>
+			</item>
+			<item label="aMule">
+				<action name="Execute">
+					<execute>
+						amule
+					</execute>
+				</action>
+			</item>
+			<item label="Checkgmail">
+				<action name="Execute">
+					<execute>
+						checkgmail
+					</execute>
+				</action>
+			</item>
+			<item label="Deluge Torrent">
+				<action name="Execute">
+					<execute>
+						deluge
+					</execute>
+				</action>
+			</item>
+			<item label="Emesene">
+				<action name="Execute">
+					<execute>
+						emesene
+					</execute>
+				</action>
+			</item>
+			<item label="Epiphany Web Browser">
+				<action name="Execute">
+					<execute>
+						epiphany
+					</execute>
+				</action>
+			</item>
+			<item label="FireFox">
+				<action name="Execute">
+					<execute>
+						firefox
+					</execute>
+				</action>
+			</item>
+			<item label="Galaxium">
+				<action name="Execute">
+					<execute>
+						galaxium
+					</execute>
+				</action>
+			</item>
+			<item label="Gajim Instant Messenger">
+				<action name="Execute">
+					<execute>
+						gajim
+					</execute>
+				</action>
+			</item>
+			<item label="Google Earth">
+				<action name="Execute">
+					<execute>
+						googleearth
+					</execute>
+				</action>
+			</item>
+			<item label="KMess">
+				<action name="Execute">
+					<execute>
+						kmess
+					</execute>
+				</action>
+			</item>
+			<item label="Konqueror">
+				<action name="Execute">
+					<execute>
+						kfmclient openProfile webbrowsing
+					</execute>
+				</action>
+			</item>
+			<item label="KTorrent">
+				<action name="Execute">
+					<execute>
+						ktorrent
+					</execute>
+				</action>
+			</item>
+			<item label="Mercury Messenger">
+				<action name="Execute">
+					<execute>
+						mercury
+					</execute>
+				</action>
+			</item>
+			<item label="MoioSMS">
+				<action name="Execute">
+					<execute>
+						MoioSMS
+					</execute>
+				</action>
+			</item>
+			<item label="Pidgin Internet Messenger">
+				<action name="Execute">
+					<execute>
+						pidgin
+					</execute>
+				</action>
+			</item>
+			<item label="QSopcast">
+				<action name="Execute">
+					<execute>
+						qsopcast
+					</execute>
+				</action>
+			</item>
+			<item label="Quamachi">
+				<action name="Execute">
+					<execute>
+						Quamachi.pyw
+					</execute>
+				</action>
+			</item>
+			<item label="Skype">
+				<action name="Execute">
+					<execute>
+						skype -disable-cleanlooks
+					</execute>
+				</action>
+			</item>
+			<item label="SpiceBird">
+				<action name="Execute">
+					<execute>
+						/opt/spicebird/spicebird
+					</execute>
+				</action>
+			</item>
+			<item label="Swiftfox">
+				<action name="Execute">
+					<execute>
+						swiftfox
+					</execute>
+				</action>
+			</item>
+			<item label="Thunderbird">
+				<action name="Execute">
+					<execute>
+						thunderbird
+					</execute>
+				</action>
+			</item>
+			<item label="X-Chat">
+				<action name="Execute">
+					<execute>
+						xchat
+					</execute>
+				</action>
+			</item>
+		</menu>
+		<menu id="3" label="Office">
+			<item label="ePDFViewer">
+				<action name="Execute">
+					<execute>
+						epdfview
+					</execute>
+				</action>
+			</item>
+			<item label="Evince">
+				<action name="Execute">
+					<execute>
+						evince
+					</execute>
+				</action>
+			</item>
+			<item label="OpenOffice.org 2.4 Base">
+				<action name="Execute">
+					<execute>
+						soffice -base
+					</execute>
+				</action>
+			</item>
+			<item label="OpenOffice.org 2.4 Calc">
+				<action name="Execute">
+					<execute>
+						soffice -calc
+					</execute>
+				</action>
+			</item>
+			<item label="OpenOffice.org 2.4 Draw">
+				<action name="Execute">
+					<execute>
+						soffice -draw
+					</execute>
+				</action>
+			</item>
+			<item label="OpenOffice.org 2.4 From Template">
+				<action name="Execute">
+					<execute>
+						soffice slot:5500
+					</execute>
+				</action>
+			</item>
+			<item label="OpenOffice.org 2.4 Impress">
+				<action name="Execute">
+					<execute>
+						soffice -impress
+					</execute>
+				</action>
+			</item>
+			<item label="OpenOffice.org 2.4 Math">
+				<action name="Execute">
+					<execute>
+						soffice -math
+					</execute>
+				</action>
+			</item>
+			<item label="OpenOffice.org 2.4 Printer Administration">
+				<action name="Execute">
+					<execute>
+						spadmin
+					</execute>
+				</action>
+			</item>
+			<item label="OpenOffice.org 2.4 Writer">
+				<action name="Execute">
+					<execute>
+						soffice -writer
+					</execute>
+				</action>
+			</item>
+		</menu>
+		<menu id="4" label="Science">
+			<item label="wxMaxima">
+				<action name="Execute">
+					<execute>
+						wxmaxima
+					</execute>
+				</action>
+			</item>
+			<item label="Xcalc">
+				<action name="Execute">
+					<execute>
+						xcalc
+					</execute>
+				</action>
+			</item>
+			<item label="XMaxima">
+				<action name="Execute">
+					<execute>
+						xterm -e xmaxima
+					</execute>
+				</action>
+			</item>
+		</menu>
+		<menu id="19" label="Shells">
+			<item label="innotek VirtualBox">
+				<action name="Execute">
+					<execute>
+						VirtualBox
+					</execute>
+				</action>
+			</item>
+			<item label="Konsole">
+				<action name="Execute">
+					<execute>
+						konsole
+					</execute>
+				</action>
+			</item>
+			<item label="Pcman File Manger">
+				<action name="Execute">
+					<execute>
+						pcmanfm
+					</execute>
+				</action>
+			</item>
+			<item label="Mitter">
+				<action name="Execute">
+					<execute>
+						mitter
+					</execute>
+				</action>
+			</item>
+			<item label="Gnome Terminal">
+				<action name="Execute">
+					<execute>
+						gnome-terminal
+					</execute>
+				</action>
+			</item>
+			<item label="Thunar File Manager">
+				<action name="Execute">
+					<execute>
+						Thunar
+					</execute>
+				</action>
+			</item>
+			<item label="Xterm">
+				<action name="Execute">
+					<execute>
+						xterm
+					</execute>
+				</action>
+			</item>
+		</menu>
+		<menu id="37" label="Sistema">
+			<menu id="36" label="Settings">
+				<menu id="21" label="GNOME">
+					<item label="About Me">
+						<action name="Execute">
+							<execute>
+								gnome-about-me
+							</execute>
+						</action>
+					</item>
+					<item label="Appearance">
+						<action name="Execute">
+							<execute>
+								gnome-appearance-properties
+							</execute>
+						</action>
+					</item>
+					<item label="Assistive Technologies">
+						<action name="Execute">
+							<execute>
+								gnome-at-properties
+							</execute>
+						</action>
+					</item>
+					<item label="Encryption and Keyrings">
+						<action name="Execute">
+							<execute>
+								seahorse-preferences
+							</execute>
+						</action>
+					</item>
+					<item label="File Management">
+						<action name="Execute">
+							<execute>
+								nautilus-file-management-properties
+							</execute>
+						</action>
+					</item>
+					<item label="Keyboard">
+						<action name="Execute">
+							<execute>
+								gnome-keyboard-properties
+							</execute>
+						</action>
+					</item>
+					<item label="Keyboard Shortcuts">
+						<action name="Execute">
+							<execute>
+								gnome-keybinding-properties
+							</execute>
+						</action>
+					</item>
+					<item label="Main Menu">
+						<action name="Execute">
+							<execute>
+								alacarte
+							</execute>
+						</action>
+					</item>
+					<item label="Mouse">
+						<action name="Execute">
+							<execute>
+								gnome-mouse-properties
+							</execute>
+						</action>
+					</item>
+					<item label="Network Proxy">
+						<action name="Execute">
+							<execute>
+								gnome-network-preferences
+							</execute>
+						</action>
+					</item>
+					<item label="Preferred Applications">
+						<action name="Execute">
+							<execute>
+								gnome-default-applications-properties
+							</execute>
+						</action>
+					</item>
+					<item label="Privilege granting">
+						<action name="Execute">
+							<execute>
+								gksu-properties
+							</execute>
+						</action>
+					</item>
+					<item label="Remote Desktop">
+						<action name="Execute">
+							<execute>
+								vino-preferences
+							</execute>
+						</action>
+					</item>
+					<item label="Removable Drives and Media">
+						<action name="Execute">
+							<execute>
+								gnome-volume-properties
+							</execute>
+						</action>
+					</item>
+					<item label="Screen Resolution">
+						<action name="Execute">
+							<execute>
+								gnome-display-properties
+							</execute>
+						</action>
+					</item>
+					<item label="Sound">
+						<action name="Execute">
+							<execute>
+								gnome-sound-properties
+							</execute>
+						</action>
+					</item>
+					<item label="Windows">
+						<action name="Execute">
+							<execute>
+								gnome-window-properties
+							</execute>
+						</action>
+					</item>
+				</menu>
+				<menu id="34" label="KDE">
+					<menu id="25" label="Accessibility">
+						<item label="Accessibility">
+							<action name="Execute">
+								<execute>
+									kcmshell kcmaccess
+								</execute>
+							</action>
+						</item>
+						<item label="Country/Region &amp; Language">
+							<action name="Execute">
+								<execute>
+									kcmshell language
+								</execute>
+							</action>
+						</item>
+						<item label="Input Actions">
+							<action name="Execute">
+								<execute>
+									kcmshell khotkeys
+								</execute>
+							</action>
+						</item>
+						<item label="Keyboard Layout">
+							<action name="Execute">
+								<execute>
+									kcmshell keyboard_layout
+								</execute>
+							</action>
+						</item>
+						<item label="Keyboard Shortcuts">
+							<action name="Execute">
+								<execute>
+									kcmshell keys
+								</execute>
+							</action>
+						</item>
+					</menu>
+					<menu id="26" label="Components">
+						<item label="Component Chooser">
+							<action name="Execute">
+								<execute>
+									kcmshell componentchooser
+								</execute>
+							</action>
+						</item>
+						<item label="File Associations">
+							<action name="Execute">
+								<execute>
+									kcmshell filetypes
+								</execute>
+							</action>
+						</item>
+						<item label="File Manager">
+							<action name="Execute">
+								<execute>
+									kcmshell filebrowser
+								</execute>
+							</action>
+						</item>
+						<item label="KDE Performance">
+							<action name="Execute">
+								<execute>
+									kcmshell kcmperformance
+								</execute>
+							</action>
+						</item>
+						<item label="KDE Resources">
+							<action name="Execute">
+								<execute>
+									kcmshell kresources
+								</execute>
+							</action>
+						</item>
+						<item label="Service Manager">
+							<action name="Execute">
+								<execute>
+									kcmshell kcmkded
+								</execute>
+							</action>
+						</item>
+						<item label="Session Manager">
+							<action name="Execute">
+								<execute>
+									kcmshell kcmsmserver
+								</execute>
+							</action>
+						</item>
+						<item label="Spell Checker">
+							<action name="Execute">
+								<execute>
+									kcmshell spellchecking
+								</execute>
+							</action>
+						</item>
+					</menu>
+					<menu id="30" label="Desktop">
+						<item label="Behavior">
+							<action name="Execute">
+								<execute>
+									kcmshell desktopbehavior
+								</execute>
+							</action>
+						</item>
+						<item label="Multiple Desktops">
+							<action name="Execute">
+								<execute>
+									kcmshell desktop
+								</execute>
+							</action>
+						</item>
+						<item label="Panels">
+							<action name="Execute">
+								<execute>
+									kcmshell panel
+								</execute>
+							</action>
+						</item>
+						<item label="Taskbar">
+							<action name="Execute">
+								<execute>
+									kcmshell kcmtaskbar
+								</execute>
+							</action>
+						</item>
+						<item label="Window Behavior">
+							<action name="Execute">
+								<execute>
+									kcmshell kwinoptions
+								</execute>
+							</action>
+						</item>
+						<item label="Window-Specific Settings">
+							<action name="Execute">
+								<execute>
+									kcmshell kwinrules
+								</execute>
+							</action>
+						</item>
+					</menu>
+					<menu id="32" label="Hardware">
+						<item label="Display">
+							<action name="Execute">
+								<execute>
+									kcmshell display
+								</execute>
+							</action>
+						</item>
+						<item label="Joystick">
+							<action name="Execute">
+								<execute>
+									kcmshell joystick
+								</execute>
+							</action>
+						</item>
+						<item label="Keyboard">
+							<action name="Execute">
+								<execute>
+									kcmshell keyboard
+								</execute>
+							</action>
+						</item>
+						<item label="Mouse">
+							<action name="Execute">
+								<execute>
+									kcmshell mouse
+								</execute>
+							</action>
+						</item>
+						<item label="Printers">
+							<action name="Execute">
+								<execute>
+									kcmshell printers
+								</execute>
+							</action>
+						</item>
+					</menu>
+					<menu id="22" label="Look &amp; Feel">
+						<item label="Background">
+							<action name="Execute">
+								<execute>
+									kcmshell background
+								</execute>
+							</action>
+						</item>
+						<item label="Colors">
+							<action name="Execute">
+								<execute>
+									kcmshell colors
+								</execute>
+							</action>
+						</item>
+						<item label="Fonts">
+							<action name="Execute">
+								<execute>
+									kcmshell fonts
+								</execute>
+							</action>
+						</item>
+						<item label="Icons">
+							<action name="Execute">
+								<execute>
+									kcmshell icons
+								</execute>
+							</action>
+						</item>
+						<item label="Launch Feedback">
+							<action name="Execute">
+								<execute>
+									kcmshell kcmlaunch
+								</execute>
+							</action>
+						</item>
+						<item label="Screen Saver">
+							<action name="Execute">
+								<execute>
+									kcmshell screensaver
+								</execute>
+							</action>
+						</item>
+						<item label="Splash Screen">
+							<action name="Execute">
+								<execute>
+									kcmshell ksplashthememgr
+								</execute>
+							</action>
+						</item>
+						<item label="Style">
+							<action name="Execute">
+								<execute>
+									kcmshell style
+								</execute>
+							</action>
+						</item>
+						<item label="Theme Manager">
+							<action name="Execute">
+								<execute>
+									kcmshell kthememanager
+								</execute>
+							</action>
+						</item>
+						<item label="Window Decorations">
+							<action name="Execute">
+								<execute>
+									kcmshell kwindecoration
+								</execute>
+							</action>
+						</item>
+					</menu>
+					<menu id="27" label="Network">
+						<item label="Connection Preferences">
+							<action name="Execute">
+								<execute>
+									kcmshell netpref
+								</execute>
+							</action>
+						</item>
+						<item label="Local Network Browsing">
+							<action name="Execute">
+								<execute>
+									kcmshell lanbrowser
+								</execute>
+							</action>
+						</item>
+						<item label="Proxy">
+							<action name="Execute">
+								<execute>
+									kcmshell proxy
+								</execute>
+							</action>
+						</item>
+						<item label="Service Discovery">
+							<action name="Execute">
+								<execute>
+									kcmshell kcm_kdnssd
+								</execute>
+							</action>
+						</item>
+					</menu>
+					<menu id="28" label="Security">
+						<item label="Crypto">
+							<action name="Execute">
+								<execute>
+									kcmshell crypto
+								</execute>
+							</action>
+						</item>
+						<item label="Password &amp; User Account">
+							<action name="Execute">
+								<execute>
+									kcmshell kcm_useraccount
+								</execute>
+							</action>
+						</item>
+						<item label="Privacy">
+							<action name="Execute">
+								<execute>
+									kcmshell privacy
+								</execute>
+							</action>
+						</item>
+					</menu>
+					<menu id="23" label="Sound">
+						<item label="Sound System">
+							<action name="Execute">
+								<execute>
+									kcmshell arts
+								</execute>
+							</action>
+						</item>
+						<item label="System Bell">
+							<action name="Execute">
+								<execute>
+									kcmshell bell
+								</execute>
+							</action>
+						</item>
+						<item label="System Notifications">
+							<action name="Execute">
+								<execute>
+									kcmshell kcmnotify
+								</execute>
+							</action>
+						</item>
+					</menu>
+					<menu id="24" label="System">
+						<item label="Date &amp; Time">
+							<action name="Execute">
+								<execute>
+									kcmshell kde-clock.desktop
+								</execute>
+							</action>
+						</item>
+						<item label="Font Installer">
+							<action name="Execute">
+								<execute>
+									kcmshell kcmfontinst
+								</execute>
+							</action>
+						</item>
+						<item label="Login Manager">
+							<action name="Execute">
+								<execute>
+									kcmshell kdm
+								</execute>
+							</action>
+						</item>
+						<item label="Paths">
+							<action name="Execute">
+								<execute>
+									kcmshell desktoppath
+								</execute>
+							</action>
+						</item>
+					</menu>
+					<menu id="29" label="Web">
+						<item label="AdBlocK Filters">
+							<action name="Execute">
+								<execute>
+									kcmshell khtml_filter
+								</execute>
+							</action>
+						</item>
+						<item label="Browser Identification">
+							<action name="Execute">
+								<execute>
+									kcmshell useragent
+								</execute>
+							</action>
+						</item>
+						<item label="Cache">
+							<action name="Execute">
+								<execute>
+									kcmshell cache
+								</execute>
+							</action>
+						</item>
+						<item label="CGI Scripts">
+							<action name="Execute">
+								<execute>
+									kcmshell kcmcgi
+								</execute>
+							</action>
+						</item>
+						<item label="Cookies">
+							<action name="Execute">
+								<execute>
+									kcmshell cookies
+								</execute>
+							</action>
+						</item>
+						<item label="History Sidebar">
+							<action name="Execute">
+								<execute>
+									kcmshell kcmhistory
+								</execute>
+							</action>
+						</item>
+						<item label="Java &amp; JavaScript">
+							<action name="Execute">
+								<execute>
+									kcmshell khtml_java_js
+								</execute>
+							</action>
+						</item>
+						<item label="Plugins">
+							<action name="Execute">
+								<execute>
+									kcmshell khtml_plugins
+								</execute>
+							</action>
+						</item>
+						<item label="Stylesheets">
+							<action name="Execute">
+								<execute>
+									kcmshell kcmcss
+								</execute>
+							</action>
+						</item>
+						<item label="Web Behavior">
+							<action name="Execute">
+								<execute>
+									kcmshell khtml_behavior
+								</execute>
+							</action>
+						</item>
+						<item label="Web Shortcuts">
+							<action name="Execute">
+								<execute>
+									kcmshell ebrowsing
+								</execute>
+							</action>
+						</item>
+					</menu>
+					<item label="Actions">
+						<action name="Execute">
+							<execute>
+								kcmshell kwinactions
+							</execute>
+						</action>
+					</item>
+					<item label="Advanced">
+						<action name="Execute">
+							<execute>
+								kcmshell kwinadvanced
+							</execute>
+						</action>
+					</item>
+					<item label="Appearance">
+						<action name="Execute">
+							<execute>
+								kcmshell fileappearance
+							</execute>
+						</action>
+					</item>
+					<item label="Appearance">
+						<action name="Execute">
+							<execute>
+								kcmshell kicker_appearance
+							</execute>
+						</action>
+					</item>
+					<item label="Arrangement">
+						<action name="Execute">
+							<execute>
+								kcmshell kicker_arrangement
+							</execute>
+						</action>
+					</item>
+					<item label="Behavior">
+						<action name="Execute">
+							<execute>
+								kcmshell filebehavior
+							</execute>
+						</action>
+					</item>
+					<item label="Configure the Panel">
+						<action name="Execute">
+							<execute>
+								kcmshell
+							</execute>
+						</action>
+					</item>
+					<item label="File Manager">
+						<action name="Execute">
+							<execute>
+								kfmclient openProfile filemanagement
+							</execute>
+						</action>
+					</item>
+					<item label="Focus">
+						<action name="Execute">
+							<execute>
+								kcmshell kwinfocus
+							</execute>
+						</action>
+					</item>
+					<item label="Hiding">
+						<action name="Execute">
+							<execute>
+								kcmshell kicker_hiding
+							</execute>
+						</action>
+					</item>
+					<item label="Konqueror Browser">
+						<action name="Execute">
+							<execute>
+								kcmshell khtml_fonts
+							</execute>
+						</action>
+					</item>
+					<item label="Konsole">
+						<action name="Execute">
+							<execute>
+								kcmshell kcmkonsole
+							</execute>
+						</action>
+					</item>
+					<item label="Laptop">
+						<action name="Execute">
+							<execute>
+								kcmshell laptop
+							</execute>
+						</action>
+					</item>
+					<item label="Menus">
+						<action name="Execute">
+							<execute>
+								kcmshell kicker_menus
+							</execute>
+						</action>
+					</item>
+					<item label="Moving">
+						<action name="Execute">
+							<execute>
+								kcmshell kwinmoving
+							</execute>
+						</action>
+					</item>
+					<item label="Multiple Monitors">
+						<action name="Execute">
+							<execute>
+								kcmshell xinerama
+							</execute>
+						</action>
+					</item>
+					<item label="Performance">
+						<action name="Execute">
+							<execute>
+								kcmshell kcmkonqyperformance
+							</execute>
+						</action>
+					</item>
+					<item label="Power Control">
+						<action name="Execute">
+							<execute>
+								kcmshell energy
+							</execute>
+						</action>
+					</item>
+					<item label="Previews &amp; Meta-Data">
+						<action name="Execute">
+							<execute>
+								kcmshell filepreviews
+							</execute>
+						</action>
+					</item>
+					<item label="Size &amp; Orientation">
+						<action name="Execute">
+							<execute>
+								kcmshell randr
+							</execute>
+						</action>
+					</item>
+					<item label="Storage Media">
+						<action name="Execute">
+							<execute>
+								kcmshell media
+							</execute>
+						</action>
+					</item>
+					<item label="Translucency">
+						<action name="Execute">
+							<execute>
+								kcmshell kwintranslucency
+							</execute>
+						</action>
+					</item>
+					<item label="Windows Shares">
+						<action name="Execute">
+							<execute>
+								kcmshell smb
+							</execute>
+						</action>
+					</item>
+				</menu>
+				<menu id="35" label="Xfce">
+					<item label="Removable Drives and Media">
+						<action name="Execute">
+							<execute>
+								/usr/lib/xfce4/thunar-volman-settings
+							</execute>
+						</action>
+					</item>
+					<item label="Xfce 4 Autostarted Applications">
+						<action name="Execute">
+							<execute>
+								xfce4-autostart-editor
+							</execute>
+						</action>
+					</item>
+					<item label="Xfce 4 Calendar Settings">
+						<action name="Execute">
+							<execute>
+								xfce-setting-show orage
+							</execute>
+						</action>
+					</item>
+					<item label="Xfce 4 Desktop Settings">
+						<action name="Execute">
+							<execute>
+								xfce-setting-show backdrop
+							</execute>
+						</action>
+					</item>
+					<item label="Xfce 4 Display Settings">
+						<action name="Execute">
+							<execute>
+								xfce-setting-show display
+							</execute>
+						</action>
+					</item>
+					<item label="Xfce 4 Keyboard Settings">
+						<action name="Execute">
+							<execute>
+								xfce-setting-show keyboard
+							</execute>
+						</action>
+					</item>
+					<item label="Xfce 4 Menu Editor">
+						<action name="Execute">
+							<execute>
+								xfce4-menueditor
+							</execute>
+						</action>
+					</item>
+					<item label="Xfce 4 Mouse Settings">
+						<action name="Execute">
+							<execute>
+								xfce-setting-show mouse
+							</execute>
+						</action>
+					</item>
+					<item label="Xfce 4 Panel Manager">
+						<action name="Execute">
+							<execute>
+								xfce4-panel -c
+							</execute>
+						</action>
+					</item>
+					<item label="Xfce 4 Preferred Applications">
+						<action name="Execute">
+							<execute>
+								exo-preferred-applications
+							</execute>
+						</action>
+					</item>
+					<item label="Xfce 4 Printing System Settings">
+						<action name="Execute">
+							<execute>
+								xfce-setting-show printing_system
+							</execute>
+						</action>
+					</item>
+					<item label="Xfce 4 Sessions and Startup Settings">
+						<action name="Execute">
+							<execute>
+								xfce-setting-show session
+							</execute>
+						</action>
+					</item>
+					<item label="Xfce 4 Settings Manager">
+						<action name="Execute">
+							<execute>
+								xfce-setting-show
+							</execute>
+						</action>
+					</item>
+					<item label="Xfce 4 Splash Screen Settings">
+						<action name="Execute">
+							<execute>
+								xfce-setting-show splash
+							</execute>
+						</action>
+					</item>
+					<item label="Xfce 4 User Interface Settings">
+						<action name="Execute">
+							<execute>
+								xfce-setting-show ui
+							</execute>
+						</action>
+					</item>
+					<item label="Xfce 4 Window Manager Settings">
+						<action name="Execute">
+							<execute>
+								xfce-setting-show xfwm4
+							</execute>
+						</action>
+					</item>
+					<item label="Xfce 4 Window Manager Tweaks">
+						<action name="Execute">
+							<execute>
+								xfce-setting-show wmtweaks
+							</execute>
+						</action>
+					</item>
+					<item label="Xfce 4 Workspaces Settings">
+						<action name="Execute">
+							<execute>
+								xfce-setting-show workspaces
+							</execute>
+						</action>
+					</item>
+					<item label="Xfce Applications Menu Editor">
+						<action name="Execute">
+							<execute>
+								xfce-appmenu
+							</execute>
+						</action>
+					</item>
+				</menu>
+				<item label="CompizConfig Settings Manager">
+					<action name="Execute">
+						<execute>
+							ccsm
+						</execute>
+					</action>
+				</item>
+				<item label="Default Printer">
+					<action name="Execute">
+						<execute>
+							my-default-printer
+						</execute>
+					</action>
+				</item>
+				<item label="Desktop Settings Wizard">
+					<action name="Execute">
+						<execute>
+							kpersonalizer
+						</execute>
+					</action>
+				</item>
+				<item label="Menu Editor">
+					<action name="Execute">
+						<execute>
+							kmenuedit
+						</execute>
+					</action>
+				</item>
+				<item label="Menu Updating Tool">
+					<action name="Execute">
+						<execute>
+							kappfinder
+						</execute>
+					</action>
+				</item>
+				<item label="Openbox Configuration Manager">
+					<action name="Execute">
+						<execute>
+							obconf
+						</execute>
+					</action>
+				</item>
+				<item label="Power Management">
+					<action name="Execute">
+						<execute>
+							gnome-power-preferences
+						</execute>
+					</action>
+				</item>
+				<item label="Printing">
+					<action name="Execute">
+						<execute>
+							system-config-printer
+						</execute>
+					</action>
+				</item>
+				<item label="Sessions">
+					<action name="Execute">
+						<execute>
+							gnome-session-properties
+						</execute>
+					</action>
+				</item>
+				<item label="Xfontsel">
+					<action name="Execute">
+						<execute>
+							xfontsel
+						</execute>
+					</action>
+				</item>
+				<item label="Xvidtune">
+					<action name="Execute">
+						<execute>
+							xvidtune
+						</execute>
+					</action>
+				</item>
+			</menu>
+			<item label="Compiz Fusion Icon">
+				<action name="Execute">
+					<execute>
+						fusion-icon
+					</execute>
+				</action>
+			</item>
+			<item label="Configuration Editor">
+				<action name="Execute">
+					<execute>
+						gconf-editor
+					</execute>
+				</action>
+			</item>
+			<item label="Disk Usage Analyzer">
+				<action name="Execute">
+					<execute>
+						baobab
+					</execute>
+				</action>
+			</item>
+			<item label="File Browser">
+				<action name="Execute">
+					<execute>
+						nautilus --no-desktop
+					</execute>
+				</action>
+			</item>
+			<item label="Gestione Stampanti">
+				<action name="Execute">
+					<execute>
+						xdg-open http://localhost:631/
+					</execute>
+				</action>
+			</item>
+			<item label="Nautilus">
+				<action name="Execute">
+					<execute>
+						nautilus
+					</execute>
+				</action>
+			</item>
+			<item label="Network Tools">
+				<action name="Execute">
+					<execute>
+						gnome-nettool
+					</execute>
+				</action>
+			</item>
+			<item label="NVIDIA X Server Settings">
+				<action name="Execute">
+					<execute>
+						nvidia-settings
+					</execute>
+				</action>
+			</item>
+			<item label="Power Statistics">
+				<action name="Execute">
+					<execute>
+						gnome-power-statistics
+					</execute>
+				</action>
+			</item>
+			<item label="Print Notification Icon">
+				<action name="Execute">
+					<execute>
+						gnome-cups-icon
+					</execute>
+				</action>
+			</item>
+			<item label="Printer Manager">
+				<action name="Execute">
+					<execute>
+						gnome-cups-manager
+					</execute>
+				</action>
+			</item>
+			<item label="System Log">
+				<action name="Execute">
+					<execute>
+						gnome-system-log
+					</execute>
+				</action>
+			</item>
+			<item label="System Monitor">
+				<action name="Execute">
+					<execute>
+						gnome-system-monitor
+					</execute>
+				</action>
+			</item>
+		</menu>
+		<menu id="38" label="Varie">
+			<item label="Archive Manager">
+				<action name="Execute">
+					<execute>
+						file-roller
+					</execute>
+				</action>
+			</item>
+			<item label="Calcolatrice">
+				<action name="Execute">
+					<execute>
+						gcalctool
+					</execute>
+				</action>
+			</item>
+			<item label="Gnome Do">
+				<action name="Execute">
+					<execute>
+						gnome-do
+					</execute>
+				</action>
+			</item>
+			<item label="Cattura schermata">
+				<action name="Execute">
+					<execute>
+						gnome-screenshot --interactive
+					</execute>
+				</action>
+			</item>
+		</menu>
+		<separator/>
+		<menu id="40" label="OpenBox">
+			<menu id="client-list-menu"/>
+			<item label="Reconfigure">
+				<action name="Reconfigure"/>
+			</item>
+			<separator/>
+			<item label="Spegni">
+				<action name="Execute">
+					<execute>
+						sudo halt
+					</execute>
+				</action>
+			</item>
+			<item label="Riavvia">
+				<action name="Execute">
+					<execute>
+						sudo reboot
+					</execute>
+				</action>
+			</item>
+			<item label="Exit">
+				<action name="Exit"/>
+			</item>
+		</menu>
+	</menu>
+</openbox_menu>
